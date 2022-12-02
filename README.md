@@ -1,9 +1,10 @@
 ### Olá! Eu sou o Ariel Fernando dos Santos
-
+<img align="center" alt="kata" height="100" width="600" src="https://www.codewars.com/users/Ariel%20F%20Santos/badges/large">
 
  -  Estou estudando Javascript, HTML e CSS.
- -  Sou certificado pelo Alura.
- -  Estou atualmente estudando atualmente pelo Alura.
+ -  Sou certificado pelo Alura, segue o link abaixo:
+ -  https://cursos.alura.com.br/degree/certificate/38644d8f-5243-41d4-91f8-d9ed75bb445e
+ -  Estou atualmente estudando pelo Alura.
  -  Contate-me no email: arielochefe80@gmail.com
 
 
@@ -11,8 +12,7 @@
 <div align='center'>
   <a href="https://github.com/Profacez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Profacez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Profacez&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
