@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Ariel Fernando dos Santos
 <img align="center" alt="kata" height="100" width="600" src="https://www.codewars.com/users/Ariel%20F%20Santos/badges/large">
 
- -  Estou estudando Javascript, HTML e CSS.
+ -  Estou estudando Javascript, HTML, CSS e Linux.
  -  Sou certificado pelo Alura, segue o link abaixo:
  -  https://cursos.alura.com.br/degree/certificate/38644d8f-5243-41d4-91f8-d9ed75bb445e
- -  Estou atualmente estudando pelo Alura.
+ -  Estou atualmente estudando pelo Alura e Udemy.
  -  Contate-me no email: arielochefe80@gmail.com
 
 
